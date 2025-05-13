@@ -62,7 +62,7 @@ Life-Expectancy-Analysis
 ├── 03 Scripts      # All project notebooks for EDA, time series, clustering, and regression analysis
 │
 ├── 04 Analysis
-│   ├── Reports        # Tableau stroyboard
+|   ├── Tableau        # Tableau stroyboard       
 │   └── Visuals        # Dashboard screenshots                
 │
 ├── 05 Sent to Client
